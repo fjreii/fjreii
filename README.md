@@ -8,7 +8,7 @@
 </p>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/fajri-nurhadi">
+  <a href="https://www.linkedin.com/in/fajri-nurhadi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:f4jri.adji@gmail.com">
