@@ -1,4 +1,4 @@
-## Hi there 👋
+https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello%20Everyone!&section=header&textBg=false&reversal=false&animation=fadeIn
 
 <!--
 **fjreii/fjreii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
