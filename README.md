@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello%20Everyone!&section=header&textBg=false&reversal=false&animation=fadeIn"/>
 </p>
